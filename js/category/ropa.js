@@ -16,8 +16,9 @@ fetch('https://api-bazar-x1zz.onrender.com/api/productos/consultar-categoria?cat
             <div class="productinfo text-center">
               <img src="${product.imagen_url}" alt="" />
               <h2>$${product.precio}</h2>
-              <p>${product.nombre}</p>
-              <p>${product.descripcion}</p>
+              <p><b>${product.nombre}<b></p>
+              <p><b>Marca: </b>${product.marca}</p>
+              <p><b>Descripción: </b>${product.descripcion}</p>
               <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Agregar al carrito</a>
             </div>
             <div class="product-overlay">
