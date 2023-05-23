@@ -32,3 +32,19 @@ Con CSS, puedes controlar el color, la tipografía, el espaciado, el tamaño, la
 JavaScript es un lenguaje de programación de alto nivel, orientado a objetos e interpretado. Es ampliamente utilizado en el desarrollo web para agregar interactividad y dinamismo a las páginas.
 
 A diferencia de HTML y CSS, que se enfocan en la estructura y la presentación de una página web, JavaScript se centra en la programación y la manipulación de elementos HTML, la interacción con el usuario y el procesamiento de datos.
+
+![Menú principal](imgreadme/cap1.jpeg)
+![Menú principal](imgreadme/cap2.jpeg)
+![Catalogo productos recomendados](imgreadme/cap3.jpeg)
+![Catalogo productos recomendados](imgreadme/cap4.jpeg)
+![Catalogo productos recomendados](imgreadme/cap5.jpeg)
+![Catalogo ropa](imgreadme/cap6.jpeg)
+![Catalogo ropa](imgreadme/cap7.jpeg)
+![Catalogo ropa](imgreadme/cap8.jpeg)
+![Catalogo lencería](imgreadme/cap9.jpeg)
+![Footer](imgreadme/cap10.jpeg)
+![Catalogo juguetes](imgreadme/cap11.jpeg)
+![Catalogo salón](imgreadme/cap12.jpeg)
+![Catalogo cuidado personal](imgreadme/cap13.jpeg)
+![Catalogo limpieza](imgreadme/cap14.jpeg)
+![Contacto](imgreadme/cap15.jpeg)
